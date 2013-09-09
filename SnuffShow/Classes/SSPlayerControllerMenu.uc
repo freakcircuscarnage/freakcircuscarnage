@@ -1,5 +1,7 @@
 class SSPlayerControllerMenu extends UTPlayerController;
 
+// Boomchacalaca
+
 var repnotify string CharIndex, TeamIndex;
 var repnotify bool bTeamSelected;
 var array<SSPawn> PawnClasses, RedPawnClasses, BluePawnClasses;
